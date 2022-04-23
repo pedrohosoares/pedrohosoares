@@ -1,17 +1,17 @@
-- 👋 Hi, I’m @pedrohosoares
-- 👀 I’m interested in new technologies and projects
-- 🌱 I’m learning every day about multiple things.
-- 💞️ I’m looking to collaborate on javascript in wordpress and other plugins based with JavaScript
-- 📫 How to reach me:
+- 👋 Olá, Sou o @pedrohosoares
+- 👀 Tenho interesse em tecnologias e inovação
+- 🌱 Todos os dias aprendo mais sobre esse mundo tecnológico e linguagem de programação.
+- 💞️ Sou programador apaixonado
 
-Follow-me:
-- Instagram: [@pedroho_soares](https://www.instagram.com/pedroho_soares/)
-- Facebook: [@pedraosoares](https://www.facebook.com/pedraosoares)
-- Medium: [https://pedrohosoares.medium.com/](https://pedrohosoares.medium.com/)
-- Mail: pedrohosoares@gmail.com
+## Cursos e e-books
+Também mantenho alguns cursos e-books, conhecimentos exclusivos meus que resolvi compartilhar com as pessoas:
+* [E-book Google Hacking](https://encontreseucodigo.com.br/e-book-google-hacking/), aprenda a utilizar o Google
+* [Curso Google Hacking](https://www.udemy.com/course/ninja-do-google-use-o-google-de-uma-maneira-incrivel/), aprenda na prática a encontrar informações valiosas no Google. (Produtos mais baratos, livros, filmes, informações governamentais e o que você precisar)
 
+Matenho um site para ajudar novos programadores e programadores antigos:
+* [Encontre seu código](https://encontreseucodigo.com.br)
 
-Languages
+#### Sou programador nas linguagens
 - JavaScript / React / Node.Js
 - Php / Laravel
 - Python
@@ -29,6 +29,14 @@ Servers:
 - Google Cloud
 - AWS
 - Nginx
+
+- 📫 Me encontre nas redes:
+
+- Instagram: [@pedroho_soares](https://www.instagram.com/pedroho_soares/)
+- Facebook: [@pedraosoares](https://www.facebook.com/pedraosoares)
+- Visite meu blog pessoal: [Aprenda Programação](https://encontreseucodigo.com.br)
+- Mail: pedrohosoares@gmail.com
+
 
 Experience:
 - Developer API's
